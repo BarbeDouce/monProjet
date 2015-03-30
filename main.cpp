@@ -1,10 +1,11 @@
 #include <iostream>
+#include "HelloLesZeros.h"
 
 using namespace std;
 
 int main(void)
 {
-    cout << "Hello les zeros !" << endl;
+    HelloLesZeros();
 
     return 1;
 }
